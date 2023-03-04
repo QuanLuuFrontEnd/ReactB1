@@ -3,7 +3,7 @@ import Header from "./Header";
 import Body from "./Body";
 import Footer from "./Footer";
 
-class Home extends Component {
+class BaiTapThucHanhLayout extends Component {
   render() {
     return (
       <div>
@@ -15,4 +15,4 @@ class Home extends Component {
   }
 }
 
-export default Home;
+export default BaiTapThucHanhLayout;

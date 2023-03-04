@@ -1,10 +1,10 @@
 
-import Home from "./ex1/Home";
+import BaiTapThucHanhLayout from "./ex1/BaiTapThucHanhLayout";
 
 function App() {
   return (
     <div className="App">
-      <Home />
+      <BaiTapThucHanhLayout />
     </div>
   );
 }

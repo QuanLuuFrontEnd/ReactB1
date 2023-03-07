@@ -1,11 +1,8 @@
 import React, { Component } from 'react';
-import ItemGroup from './ItemGroup';
-import Banner from './Banner';
+import Glass from './Glass';
 class Body extends Component {
     render() {
-        return (<div>
-            <Banner />
-            <ItemGroup />
+        return (<div><Glass/>
         </div>
         );
     }
